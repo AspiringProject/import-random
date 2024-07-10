@@ -29,8 +29,7 @@ elif day.lower() == "thursday" and time == "am":
     study1 = True
     study2 = True
 elif day.lower() == "thursday" and time == "pm":
-    study1 = True
-    study2 = True
+    study = True
     print("You have a", thursdayPM, "exam on Thursday afternoon.")
 elif day.lower() == "friday" and time == "am":
     print("You have a", fridayAM, "exam on Friday morning.")
@@ -38,6 +37,8 @@ else:
     print("There is no exam scheduled for that time.")
 
 #Study for exams
-if study1 == True:
-    print("Study for the exam on Thursday morning.")
-    print("")
+if study == True:
+    print("\nStudy for the exam on Thursday morning:")
+    print("CPU Architecture, Memory, Storage, Networks:\n")
+    print("Study for the exam on Thursday afternoon:")
+    print("System Software, Security, Databases, Programming.\n")
