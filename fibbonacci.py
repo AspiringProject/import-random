@@ -1,9 +1,12 @@
-def fibonacci():
-    a, b = 0, 1
-    while True:
-        yield a
-        a, b = b, a + b
+while True:
+    amount = int(input("Enter the number of terms: "))
 
-fib = fibonacci()
-for i in range(10):
-    print(next(fib))
+    def fibonacci():
+        a, b = 0, 1
+        while True:
+            yield a
+            a, b = b, a + b
+
+    fib = fibonacci()
+    for i in range(amount):
+        print(next(fib))
