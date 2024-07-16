@@ -1,3 +1,5 @@
+study = False
+
 #Timetable contents
 mondayAM = "Computer Science"
 tuesdayAM = "Maths"
