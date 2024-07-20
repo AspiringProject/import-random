@@ -1,2 +1,2 @@
-# skibidi
+# import random
 random things
