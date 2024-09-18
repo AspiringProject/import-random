@@ -1,0 +1,26 @@
+keyWords = {
+    "LAN": "Local Area Network",
+    "WAN": "Wide Area Network",
+    "Router": "Forwards data packets to devices that requested them",
+    "Switch": "Connects devices together on a network",
+    "NIC": "Network Interface Controller, allows a device to connect to a network",
+    "Transmission Media": "Wired or wireless connection that allows data transmission",
+    "Twisted Pair": "Copper wires are twisted together in insulation to reduce interference",
+    "Coaxial": "A wire surrounded in insulation and mesh",
+    "Fibre Optic": "Transmites data as light over long distances with little interference",
+    "WAP": "Wireless Access Point",
+    "Bluetooth": "Direct connection between devices with low range and bandwidth",
+    "WiFi": "Can connect multiple devices with high bandwidth and range",
+    "Client-Server Network": "A network where clients connect to a server",
+    "Peer to Peer": "Devices are connects directly, with no hierarchy",
+    "Star Topology": "Devices are connected to a central switch or server",
+    "Full Mesh": "All devices connected directly to eachother",
+    "Partial Mesh": "All devices connected to at least one other device",
+    "Bandwidth": "The amount of data sent and recieved in a given time",
+    "Bit Rate": "The measurement of bandwidth",
+    "MAC Address": "Media Access Control Address",
+    "Encryption": "Scrambling data with a key that only the intended reciever has",
+    "IP Address": "Internet Protocol Address",
+    
+    
+    
